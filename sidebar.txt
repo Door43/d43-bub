@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bub:home|Door43 (bub)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bub|d43-bub repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bub/archive/master.zip|d43-bub.zip]]
+
+**Recent Changes**
+{{changes>ns = bub}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bub|Ethnologue data]]
+
